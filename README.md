@@ -1,4 +1,4 @@
-# slowloris.py - Simple slowloris in Python
+# DDOS attack slowloris.py - Simple slowloris in Python
 
 ## What is Slowloris?
 Slowloris is basically an HTTP Denial of Service attack that affects threaded servers. It works like this:
